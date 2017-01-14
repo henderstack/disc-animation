@@ -3,8 +3,9 @@
 Demo page: <https://henderstack.github.io/disc-animation/dist/>
 
 A JavaSript HTML5 Canvas '3D' Animation experiment, just for the fun of it.
+This example utilizes what are known as 'Doyle Spirals.'
 
-This one's all driven by JavaSript and Math.  A series of animated discs in a rotation pattern.
+It's all driven by JavaSript and Math.  A series of animated discs in a rotation pattern.
 
 The project source files use:
 - Pug (HTML templating)
